@@ -4,8 +4,8 @@ This machine learning study compares five algorithms to predict mental health tr
 
 ## Project Overview
 This project addresses two critical healthcare challenges:
-Treatment Intensity Prediction: Identifying patients who will require intensive mental health treatment (inpatient, residential, emergency) vs. non-intensive care
-Criminal Justice Risk Assessment: Predicting which mental health patients may have criminal justice involvement
+- Treatment Intensity Prediction: Identifying patients who will require intensive mental health treatment (inpatient, residential, emergency) vs. non-intensive care
+- Criminal Justice Risk Assessment: Predicting which mental health patients may have criminal justice involvement
 
 ## Methodology
 - **Data**: 2019 Patient Characteristics Survey (PCS), 2022 Patient Characteristics Survey (PCS)
@@ -17,7 +17,7 @@ Criminal Justice Risk Assessment: Predicting which mental health patients may ha
 ## Key Findings
 
 - **Tree-based models** (Decision Tree, Random Forest) consistently outperformed other algorithms
-- **Naive Bayes** showed highest recall, crucial for healthcare safety (minimizing missed cases)
+- **Naive Bayes** showed the highest recall, crucial for healthcare safety (minimizing missed cases)
 - **Housing stability** emerged as the strongest predictor across both tasks
 - **Substance use disorders** strongly correlated with both intensive treatment needs and criminal involvement
 
@@ -56,6 +56,7 @@ Criminal Justice Involvement Prediction (2022 PCS Data)
 
 ## Author
 **Nikolaos Gkmpenompa**  
-Higher Diploma in Science in Data Analytics 
+Higher Diploma in Science in Data Analytics
+
 National College of Ireland 
 ---
