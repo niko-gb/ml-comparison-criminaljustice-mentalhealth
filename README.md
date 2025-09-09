@@ -55,7 +55,7 @@ Criminal Justice Involvement Prediction (2022 PCS Data)
 - Fairness Metrics: Bias detection and mitigation techniques
 
 ## Author
+
 **Nikolaos Gkmpenompa**  
 Higher Diploma in Science in Data Analytics  
-National College of Ireland 
----
+National College of Ireland  
